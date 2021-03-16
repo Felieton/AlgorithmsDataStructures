@@ -1,4 +1,4 @@
-# AlgorithmsDataStructures
+# Algorithms and data structures
 This repository contains labX files that are exercises done for the University course "Algorithms and Data structures". Each file contains some implementation of popular algorithms or data structures. Those implementations were wrote for educational purposes and are not intended to be highly optimized. Therefore i would not recommend using them for anything that requires high performance.
 
 ## Algorithms
@@ -12,7 +12,7 @@ Sorting:
   <li>Merge sort - lab5</li>
   <li>Quick sort - lab5</li>
 </ul>  
-Other:
+Other:  
 <ul>
   <li>Binary search - lab7</li>
   <li>Djikstra algorithm - lab10</li>
@@ -39,3 +39,5 @@ Other:
   <li>Directed graph - lab10</li>
   <li>Weighted graph - lab10</li>
 </ul>  
+
+*These implementations were made in spring 2019*
