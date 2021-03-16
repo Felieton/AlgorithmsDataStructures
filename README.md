@@ -2,7 +2,7 @@
 This repository contains labX files that are exercises done for the University course "Algorithms and Data structures". Each file contains some implementation of popular algorithms or data structures. Those implementations were wrote for educational purposes and are not intended to be highly optimized. Therefore i would not recommend using them for anything that requires high performance.
 
 ## Algorithms
-Sorting: 
+Sorting:
 <ul>
   <li>Bubble sort - lab4</li>
   <li>Insertion sort - lab4</li>
